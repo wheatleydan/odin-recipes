@@ -3,3 +3,25 @@
     color:#5a5a5a;
 
 }
+
+body.index {
+    text-align: center;
+    background-color: antiquewhite;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1.odin {
+    font-size: 60px;
+    color: #a8402e;
+    padding-top: 30px;
+}
+
+.menu {
+    text-align:center;
+    background: #af877f;
+    margin:auto;
+    padding: 20px;
+    border-radius: 10px;
+
+}
